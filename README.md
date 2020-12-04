@@ -1,4 +1,6 @@
-**LoRa Project**
+# WOLFF Project
+
+WOLFF is a LoRa based data communication system. Contributors of this codebase are Rishabh Mahajani, Bill Eason.  
 
 **1. Loopback**
 
